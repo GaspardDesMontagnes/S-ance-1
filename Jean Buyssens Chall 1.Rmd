@@ -1,0 +1,8 @@
+---
+title: "Séance 1"
+author: "Jean Buyssens"
+date: "02/11/2020"
+output: html_document
+---
+
+                
